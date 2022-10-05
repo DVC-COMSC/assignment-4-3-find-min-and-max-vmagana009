@@ -41,4 +41,4 @@ int main()
 	cout << "max : " << max << endl;
 	cout << "min: "  << min << endl; 
 		
-}
+} 
